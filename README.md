@@ -42,3 +42,17 @@ Buttons for actions like "Sign Up" or "Book Now" and placeholders for dynamic co
 
 ===> The type of wirframe in the link is: High-Fidelity Wireframe
 
+
+## Popular wireframing tools
+Some commonly used tools for wireframing include:
+- **Figma**
+- Adobe XD
+- Sketch
+- Balsamiq
+
+Most recommended tool is **Figma**, a powerful, cloud-based tool ideal for wireframing, offering:
+  - **Real-time Collaboration**: Multiple users can work simultaneously.
+  - **Ease of Use**: Simple tools for wireframes, prototypes, and designs.
+  - **Cross-Platform Access**: Use it anywhere via browser or app.
+  - **Prototyping Integration**: Quickly turn wireframes into interactive prototypes.
+Figma’s versatility and collaboration features make it a top choice for teams.
