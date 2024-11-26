@@ -30,19 +30,15 @@ Example:
 Buttons for actions like "Sign Up" or "Book Now" and placeholders for dynamic content, such as search bars or dropdown menus.
 
 ## Types of Wireframes
-1. **Low-Fidelity Wireframes**
-Basic sketches focusing on structure and layout without visual details.
+1. **Low-Fidelity Wireframes**:
+  Basic sketches focusing on structure and layout without visual details.
+  Use: Early stages to brainstorm and communicate ideas quickly.
+  Example: Grayscale layout with placeholders for text and buttons.
 
-Use: Early stages to brainstorm and communicate ideas quickly.
-
-Example: Grayscale layout with placeholders for text and buttons.
-
-3. **High-Fidelity Wireframes**
-Detailed designs closer to the final look, including colors and typography.
-
-Use: Later stages to refine details and gather user feedback.
-
-Example: Polished layout with styled navigation and interactive elements.
+2. **High-Fidelity Wireframes**:
+  Detailed designs closer to the final look, including colors and typography.
+  Use: Later stages to refine details and gather user feedback.
+  Example: Polished layout with styled navigation and interactive elements.
 
 ===> The type of wirframe in the link is: High-Fidelity Wireframe
 
