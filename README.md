@@ -71,3 +71,21 @@ Example: Spotting inefficient navigation paths early.
 
 4- **Streamlines Stakeholder Input**:
 Simplified visuals make it easier for stakeholders to review and provide feedback effectively.
+
+## Wireframing in Practice:
+**Scenario**:
+During the design of an e-commerce website, the wireframe revealed issues in the payment phase. Users found the layout confusing, with unclear payment options and redundant form fields, leading to potential abandonment during checkout.
+
+**Resolution**:
+Using the wireframe as a guide, the team made the following changes:
+
+- Streamlined the payment options by displaying them in a dropdown menu with clear labels (e.g., "Credit/Debit Card," "PayPal").
+- Added a secure payment badge for user trust.
+- Enabled saving payment details for returning users to speed up future checkouts.
+- Reduced form fields by autofilling billing addresses based on shipping information.
+
+**Impact**:
+The updated wireframe improved clarity and efficiency in the payment phase. Usability testing showed fewer user errors and higher satisfaction. In the final product, these changes reduced checkout abandonment rates and increased completed transactions.
+
+**Conclusion**:
+Wireframing highlighted usability issues in the payment process early on, allowing the team to resolve them before development. This ensured a seamless, user-friendly payment experience, critical for the success of any e-commerce platform.
